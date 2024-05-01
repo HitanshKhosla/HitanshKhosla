@@ -1,5 +1,3 @@
-# ![Profile Banner](https://your-banner-image-url)
-
 # 💫 About Me: 
 🌱 I’m currently learning Machine learning and Data Science 
 
@@ -22,15 +20,15 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 
+<!-- 🚀 Programming GIF -->
+<div style="margin-left: auto; margin-right: 0; display: flex; justify-content: flex-end;">
+    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Programming GIF" style="width: 400px;">
+</div>
+
 # 📊 GitHub Stats: 
 ![](https://github-readme-stats.vercel.app/api?username=hitanshkhosla&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hitanshkhosla&theme=vision-friendly-dark&hide_border=false)<br/> 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hitanshkhosla&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
-
-<!-- 🚀 Programming GIF -->
-<div style="margin-left: auto; margin-right: 0; margin-top: 100px; display: flex; justify-content: flex-end;">
-    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Programming GIF" style="width: 400px;">
-</div>
 
 ### ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light) 

@@ -1,3 +1,5 @@
+# ![Profile Banner](https://your-banner-image-url)
+
 # 💫 About Me: 
 🌱 I’m currently learning Machine learning and Data Science 
 
@@ -11,6 +13,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
@@ -24,6 +27,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hitanshkhosla&theme=vision-friendly-dark&hide_border=false)<br/> 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hitanshkhosla&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
 
+<!-- 🚀 Programming GIF -->
+<div style="margin-left: auto; margin-right: 0; margin-top: 100px; display: flex; justify-content: flex-end;">
+    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Programming GIF" style="width: 400px;">
+</div>
+
 ### ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light) 
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

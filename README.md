@@ -10,19 +10,19 @@ Welcome to my GitHub profile! I'm a passionate Data Science and Machine Learning
 ## 🔧 Technologies & Tools
 
 ### Languages
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white) |
+| ![Python](https://img.icons8.com/ios/50/000000/python.png) | ![SQL](https://img.icons8.com/ios/50/000000/sql.png) | ![Java](https://img.icons8.com/ios/50/000000/java.png) | ![C](https://img.icons8.com/ios/50/000000/c-plus-plus.png) | ![MySQL](https://img.icons8.com/ios/50/000000/mysql.png) |
 |:---:|:---:|:---:|:---:|:---:|
 
 ### Data Science
-| ![Power BI](https://img.shields.io/badge/Power_BI-1F77C1?style=flat&logo=powerbi&logoColor=white) | ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF7F0E?style=flat&logo=python&logoColor=white) | ![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF6F61?style=flat&logo=python&logoColor=white) |
+| ![Power BI](https://img.icons8.com/ios/50/000000/power-bi.png) | ![Machine Learning](https://img.icons8.com/ios/50/000000/machine-learning.png) | ![Data Analysis](https://img.icons8.com/ios/50/000000/data-analysis.png) |
 |:---:|:---:|:---:|
 
 ### Tools & Libraries
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) | ![Seaborn](https://img.shields.io/badge/Seaborn-00A3E0?style=flat&logo=python&logoColor=white) |
+| ![TensorFlow](https://img.icons8.com/ios/50/000000/tensorflow.png) | ![Scikit-learn](https://img.icons8.com/ios/50/000000/scikit-learn.png) | ![Pandas](https://img.icons8.com/ios/50/000000/pandas.png) | ![NumPy](https://img.icons8.com/ios/50/000000/numpy.png) | ![Seaborn](https://img.icons8.com/ios/50/000000/seaborn.png) |
 |:---:|:---:|:---:|:---:|:---:|
 
 ### Platforms
-| ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+| ![Kaggle](https://img.icons8.com/ios/50/000000/kaggle.png) | ![GitHub](https://img.icons8.com/ios/50/000000/github.png) |
 |:---:|:---:|
 
 ## 🌟 What I’m Currently Working On
@@ -42,7 +42,11 @@ Here's a light-hearted data science fact: Why did the data scientist go broke? B
 ![Hitansh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hitanshkhosla&theme=dark)
 ![Total Contributions](https://github-readme-stats.vercel.app/api?username=hitanshkhosla&show_icons=true&count_private=true&hide_title=true&hide=prs&include_all_commits=true)
 
-## 🎉 Fun GIF
+## 🤝 Let’s Connect
 
-![Fun GIF](https://media.giphy.com/media/26n8BQ07uF76rTr4M/giphy.gif)
+- **LinkedIn**: [www.linkedin.com/in/hitansh-khosla](https://www.linkedin.com/in/hitansh-khosla)
+- **Email**: [Your Email Address]
 
+Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or want to collaborate!
+
+Thanks for visiting! 🚀

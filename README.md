@@ -12,26 +12,27 @@ Welcome to my GitHub profile! I'm a passionate Data Science and Machine Learning
 ## 🔧 Technologies & Tools
 
 ### Languages
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-- ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+- ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+- ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
 
 ### Data Science
-- ![Power BI](https://img.shields.io/badge/Power_BI-1F77C1?style=for-the-badge&logo=powerbi&logoColor=white)
-- ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF7F0E?style=for-the-badge&logo=python&logoColor=white)
-- ![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF6F61?style=for-the-badge&logo=python&logoColor=white)
+- ![Power BI](https://img.shields.io/badge/Power_BI-1F77C1?style=flat&logo=powerbi&logoColor=white)
+- ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF7F0E?style=flat&logo=python&logoColor=white)
+- ![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF6F61?style=flat&logo=python&logoColor=white)
 
 ### Tools & Libraries
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-- ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-- ![Seaborn](https://img.shields.io/badge/Seaborn-00A3E0?style=for-the-badge&logo=python&logoColor=white)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+- ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+- ![Seaborn](https://img.shields.io/badge/Seaborn-00A3E0?style=flat&logo=python&logoColor=white)
 
 ### Platforms
-- ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## 🌟 What I’m Currently Working On
 
@@ -46,11 +47,14 @@ Here's a light-hearted data science fact: Why did the data scientist go broke? B
 
 ## 📊 GitHub Stats
 
-![Hitansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hitanshkhosla&show_icons=true&hide_title=true&count_private=true)
+![Hitansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hitanshkhosla&show_icons=true&hide_title=true&count_private=true&include_all_commits=true)
+![Hitansh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hitanshkhosla&theme=dark)
+![Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=hitanshkhosla&hide_border=true&theme=dark&card_width=500)
+![Total Contributions](https://github-readme-stats.vercel.app/api?username=hitanshkhosla&show_icons=true&count_private=true&hide_title=true&hide=prs&include_all_commits=true)
 
 ## 🎉 Fun GIF
 
-![Fun GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fdataflair%2Fyour-data-science-dream-journey-unlocked-21bf801889fe&psig=AOvVaw01skWjatZKPQKEpJyIVdjr&ust=1722769582916000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJi20fvW2IcDFQAAAAAdAAAAABAZ)
+![Fun GIF](https://media.giphy.com/media/26n8BQ07uF76rTr4M/giphy.gif)
 
 ## 🤝 Let’s Connect
 

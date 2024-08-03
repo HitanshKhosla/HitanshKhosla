@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate Data Science and Machine Learning
 ## 🔧 Technologies & Tools
 
 ### Languages
-| ![Python](https://img.icons8.com/ios/50/000000/python.png) | ![SQL](https://img.icons8.com/ios/50/000000/sql.png) | ![Java](https://img.icons8.com/ios/50/000000/java.png) | ![C](https://img.icons8.com/ios/50/000000/c-plus-plus.png) | ![MySQL](https://img.icons8.com/ios/50/000000/mysql.png) |
+| ![Python](https://img.icons8.com/color/48/000000/python.png) | ![SQL](https://img.icons8.com/ios/50/000000/sql.png) | ![Java](https://img.icons8.com/color/48/000000/java.png) | ![C](https://img.icons8.com/ios/50/000000/c-plus-plus.png) | ![MySQL](https://img.icons8.com/ios/50/000000/mysql.png) |
 |:---:|:---:|:---:|:---:|:---:|
 
 ### Data Science

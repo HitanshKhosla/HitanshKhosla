@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm a passionate Data Science and Machine Learning
 - **Experience**: Practical experience in Power BI and data analytics through internships with Vodafone Idea Foundation and Connecting Dreams Foundation.
 
 ## 🔧 Technologies & Tools
- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white) 
-![Power BI](https://img.shields.io/badge/Power_BI-1F77C1?style=flat&logo=powerbi&logoColor=white)![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF7F0E?style=flat&logo=python&logoColor=white)![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF6F61?style=flat&logo=python&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)![Seaborn](https://img.shields.io/badge/Seaborn-00A3E0?style=flat&logo=python&logoColor=white) | ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
+ ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white) 
+![Power BI](https://img.shields.io/badge/Power_BI-1F77C1?style=flat&logo=powerbi&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF7F0E?style=flat&logo=python&logoColor=white)![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF6F61?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-00A3E0?style=flat&logo=python&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
 
 
 ## 🌟 What I’m Currently Working On
@@ -19,9 +19,6 @@ Welcome to my GitHub profile! I'm a passionate Data Science and Machine Learning
 ## 📚 Data Science Insight
 
 Here's a light-hearted data science fact: Why did the data scientist go broke? Because they spent all their money on “data” but had no “science” to show for it! 😂
-
-![Deep Learning](https://miro.medium.com/v2/resize:fit:828/format:webp/0*H4cHks1eEdrW7Zlz.gif)  
-*Exploring the depths of deep learning!*
 
 ## 📊 GitHub Stats
 

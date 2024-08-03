@@ -23,8 +23,7 @@ Here's a light-hearted data science fact: Why did the data scientist go broke? B
 ## 📊 GitHub Stats
 
 ![Hitansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hitanshkhosla&show_icons=true&hide_title=true&count_private=true&include_all_commits=true)
-![Total Contributions](https://github-readme-stats.vercel.app/api?username=hitanshkhosla&show_icons=true&count_private=true&hide_title=true&hide=prs&include_all_commits=true)
-
+![Hitansh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hitanshkhosla&theme=dark)
 ## 🤝 Let’s Connect
 
 - **LinkedIn**: [www.linkedin.com/in/hitansh-khosla](https://www.linkedin.com/in/hitansh-khosla)

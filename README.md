@@ -48,6 +48,10 @@ Here's a light-hearted data science fact: Why did the data scientist go broke? B
 
 ![Hitansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hitanshkhosla&show_icons=true&hide_title=true&count_private=true)
 
+## 🎉 Fun GIF
+
+![Fun GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fdataflair%2Fyour-data-science-dream-journey-unlocked-21bf801889fe&psig=AOvVaw01skWjatZKPQKEpJyIVdjr&ust=1722769582916000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJi20fvW2IcDFQAAAAAdAAAAABAZ)
+
 ## 🤝 Let’s Connect
 
 - **LinkedIn**: [www.linkedin.com/in/hitansh-khosla](https://www.linkedin.com/in/hitansh-khosla)

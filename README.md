@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate Data Science and Machine Learning
 ## 🚀 About Me
 
 - **Current Role**: Final year Computer Science and Engineering student at Shri Mata Vaishno Devi University.
-- **Experience**: Practical experience in Power BI and data analytics through internships with Vodafone Idea Foundation and Connecting Dreams Foundation.
+- **Experience**: Practical experience in Power BI and data analytics through internship with Vodafone Idea Foundation and Connecting Dreams Foundation.
 
 ## 🔧 Technologies & Tools
  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white) 
